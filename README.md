@@ -1,4 +1,5 @@
 # Binance Data Crawler 
+<img width="1559" height="411" alt="image" src="https://github.com/user-attachments/assets/c0f279a5-079f-41ef-a0b4-fbec990c9cbf" />
 
 Binance data crawler built using pure Python (`requests`) without any HTML scrapers.  
 Designed for large-scale S3-style directory traversal and data extraction
